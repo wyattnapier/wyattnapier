@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Wyatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyattnapier)](https://github.com/anuraghazra/github-readme-stats)
+[![Wyatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyattnapier&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wyattnapier/wyattnapier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
