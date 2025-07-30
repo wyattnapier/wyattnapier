@@ -7,7 +7,7 @@
 
 - 🌱 I’m studying CS at Boston University
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a GUI web application using VTK and trame for ConceptsNREC
+- 🔭 I’m currently in my senior year. I'm also taking grad classes to finish my MS!
 - ⚡ Fun fact: I love running, biking, and weightlifting!
 - 📫 How to reach me: wnapier@bu.edu
 
